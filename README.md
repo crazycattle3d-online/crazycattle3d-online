@@ -30,3 +30,4 @@ Various settings: Wild Cattle 3D Sceneries: Players engage in combat in three di
 <strong> Iceland: </strong> Dangerous areas introduced by the volcanic terrain can be strategically used 
 
 <strong> New Zealand: </strong> Vertical gaming with high-risk, high-reward view locations is possible due to the mountainous landscape. 
+<strong> [Crazy Cattle 3D](https://crazycattle3d-online.github.io/) </strong> is a must try online game! So, enjoy it right now!
